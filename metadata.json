@@ -1,0 +1,5 @@
+{
+  "name": "TRICYKING",
+  "description": "A comprehensive Tricycle Booking System connecting passengers, drivers, and administrators with fare calculation, real-time tracking, and transaction management.",
+  "requestFramePermissions": []
+}
